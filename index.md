@@ -3,7 +3,6 @@
 > [!NOTE]
 > Файл оформлен для GitHub Markdown: вопросы разделены по блокам, ответы выделены отдельно, навигация вынесена в содержание.
 
-permalink: /
 <meta http-equiv="refresh" content="0; url=page2.html">
 
 Если переход не сработал, нажмите [сюда](page2.html).
